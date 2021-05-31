@@ -6,6 +6,10 @@ Projekt z przedmiotu Języki i metody programowania 2 (Informatyka, WEAIIB AGH)
 
   Windows
 
+## Język
+C++14
+
+
 ## Użyte niestandardowe biblioteki
 
 
